@@ -20,3 +20,10 @@
 - CSS3
 - Bootstrap
 - JavaScript
+
+## ✅ Desafios e Funcionalidades
+- Criação de identidade visual própria;
+- Navegação entre múltiplas páginas;
+- Responsividade;
+- Acessibilidade com VLibras;
+- Salvamento de dados dos formulários em localStorage.
